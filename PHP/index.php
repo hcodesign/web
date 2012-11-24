@@ -1,7 +1,7 @@
 <h1> Hello PHP! </h1>
 
 <?php
-$message = "<p>I'm getting good with PHP.</p>";
+$message = "<p>I'm getting good with PHP .</p>";
 echo $message;?>
 
 <?php
