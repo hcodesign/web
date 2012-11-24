@@ -16,7 +16,7 @@ echo "</ul>";
 
 <?php
 $person = array(
-"name" => "Sherlock Holmes",
+"name" => "Sherlock Holmes asd",
 "job" => "Private Detective",
 "birthdate" => "January 6, 1854"
 );
